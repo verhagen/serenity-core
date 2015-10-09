@@ -1,3 +1,6 @@
+Latest build status [![Build Status](https://snap-ci.com/serenity-bdd/serenity-core/branch/master/build_image)](https://snap-ci.com/serenity-bdd/serenity-core/branch/master)
+------
+
 ## Serenity - that feeling you get when you know you can trust your tests
 
 Serenity (previously known as 'Thucydides') is a library designed to make writing automated acceptance tests easier, 
@@ -45,7 +48,7 @@ Commit messages are used to generate the release notes for each release. To do t
   <type>: <message>
 ```
 
-where <type> is one of the following:
+where `<type>` is one of the following:
   - feat: A new feature
   - fix: A bug fix
   - docs: Documentation only changes
@@ -60,5 +63,3 @@ Starting from version 1.0.24, any commits without one of these prefixes will not
 ## Licensing
 
 This distribution, as a whole, is licensed under the terms of the Apache License, Version 2.0
-
-[![Build Status](https://snap-ci.com/serenity-bdd/serenity-core/branch/master/build_image)](https://snap-ci.com/serenity-bdd/serenity-core/branch/master)
