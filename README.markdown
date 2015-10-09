@@ -38,13 +38,13 @@ and so on.
 | Group Id | Artifact Id | Version |
 | -------- | ----------- | ------- |
 | `net.serenity-bdd` | `serenity-core`     | [![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-core)     |
+| `net.serenity-bdd` | `serenity-journey`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-journey/badge.svg)  |
 | `net.serenity-bdd` | `serenity-junit`    | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-junit/badge.svg)    |
 | `net.serenity-bdd` | `serenity-jbehave`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-jbehave/badge.svg)  |
 | `net.serenity-bdd` | `serenity-cucumber` | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-cucumber/badge.svg) |
 | `net.serenity-bdd` | `serenity-spring`   | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-spring/badge.svg)   |
-| `net.serenity-bdd` | `serenity-journey`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-journey/badge.svg)  |
 
-[ ![Download](https://api.bintray.com/packages/bintray/jcenter/net.serenity-bdd%3Aserenity-core/images/download.svg) ](https://bintray.com/bintray/jcenter/net.serenity-bdd%3Aserenity-core/_latestVersion)
+
 [ ![Download](https://api.bintray.com/packages/serenity/maven/serenity-core/images/download.svg) ](https://bintray.com/serenity/maven/serenity-core/_latestVersion)
 
 
@@ -54,7 +54,7 @@ and so on.
 | ---------- | -------- | ----------- | ------- |
 | Ant    | `net.serenity-bdd` | `serenity-ant-task`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-ant-task/badge.svg)  |
 | Maven  | `net.serenity-bdd.maven.plugins` | `serenity-maven-plugin`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd.maven.plugins/serenity-maven-plugin/badge.svg)  |
-| Gradle | `net.serenity-bdd` | `serenity-gradle-plugin`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-maven-plugin/badge.svg)  |
+| Gradle | `net.serenity-bdd` | `serenity-gradle-plugin`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-gradle-plugin/badge.svg)  |
 
 
 ## Version number format
