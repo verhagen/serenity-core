@@ -45,10 +45,14 @@ and so on.
 | `net.serenity-bdd` | `serenity-spring`   | [![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-spring/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-spring)   |
 
 
+| Group Id | Artifact Id | Version |
+| -------- | ----------- | ------- |
 | `net.serenity-bdd` | `serenity-jira-plugin`   | [![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-jira-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-jira-plugin)   |
 
 __@@@TODO__ Where are these artifacts used for?
 
+| Group Id | Artifact Id | Version |
+| -------- | ----------- | ------- |
 | `net.serenity-bdd` | `browse-the-web`   | [![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/browse-the-web/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/browse-the-web)   |
 | `net.serenity-bdd` | `serenity-rest-assured`   | [![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-rest-assured/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-rest-assured)   |
 | `net.serenity-bdd` | `serenity-sample-alternative-resources`   | [![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-sample-alternative-resources/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-sample-alternative-resources)   |
