@@ -1,5 +1,5 @@
-Latest build status [![Build Status](https://snap-ci.com/serenity-bdd/serenity-core/branch/master/build_image)](https://snap-ci.com/serenity-bdd/serenity-core/branch/master)
-------
+[![Build Status](https://snap-ci.com/serenity-bdd/serenity-core/branch/master/build_image)](https://snap-ci.com/serenity-bdd/serenity-core/branch/master)
+
 
 ## Serenity - that feeling you get when you know you can trust your tests
 
