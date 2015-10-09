@@ -45,6 +45,8 @@ and so on.
 | `net.serenity-bdd` | `serenity-journey`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-journey/badge.svg)  |
 
 [ ![Download](https://api.bintray.com/packages/bintray/jcenter/net.serenity-bdd%3Aserenity-core/images/download.svg) ](https://bintray.com/bintray/jcenter/net.serenity-bdd%3Aserenity-core/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/serenity/maven/serenity-core/images/download.svg) ](https://bintray.com/serenity/maven/serenity-core/_latestVersion)
+
 
 ### Serenity tools for build integration
 
