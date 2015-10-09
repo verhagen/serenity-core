@@ -33,7 +33,8 @@ under the name *Thucydides* - everything discussed in "BDD in Action" is directl
 
 and so on.
 
-
+| Group Id | Artifact Id | Version |
+| -------- | ----------- | ------- |
 | `net.serenity-bdd` | `serenity-core` | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-core/badge.svg) |
 
 
