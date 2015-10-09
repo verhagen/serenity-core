@@ -26,7 +26,7 @@ Thucydides is discussed at length in the [BDD in Action](http://www.amazon.com/B
 under the name *Thucydides* - everything discussed in "BDD in Action" is directly applicable for Serenity except for the artifact names.
 
 *Thucydides* was renamed *Serenity* in November 2014, and moving forward, all new work will be done on Serenity. The artifact names reflect this change, e.g.
-  - *net.thucydides:thucydides-code* becomes *net.serenity-bdd:serenity-core*
+  - *net.thucydides:thucydides-core* becomes *net.serenity-bdd:serenity-core*
   - *net.thucydides:thucydides-junit* becomes *net.serenity-bdd:serenity-junit*
   - *net.thucydides:thucydides-jbehave* becomes *net.serenity-bdd:serenity-jbehave*
   - *net.thucydides:thucydides-cucumber* becomes *net.serenity-bdd:serenity-cucumber*
