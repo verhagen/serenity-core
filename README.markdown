@@ -3,13 +3,13 @@
 
 ## Serenity - that feeling you get when you know you can trust your tests
 
-Serenity (previously known as 'Thucydides') is a library designed to make writing automated acceptance tests easier, 
+Serenity (previously known as _Thucydides_) is a library designed to make writing automated acceptance tests easier, 
 and more fun. 
 
 ## What does it do?
 
 Serenity helps structure your automated acceptance tests in order to make them easier to understand and maintain, 
-and provides great reporting capabilties on top of tools like JBehave, Cucumber or JUnit. It also provides tight integration 
+and provides great reporting capabilities on top of tools like JBehave, Cucumber or JUnit. It also provides tight integration 
 with WebDriver, to make automated web testing easier and more efficient.
 
 Serenity works in two ways:
@@ -26,16 +26,31 @@ Thucydides is discussed at length in the [BDD in Action](http://www.amazon.com/B
 under the name *Thucydides* - everything discussed in "BDD in Action" is directly applicable for Serenity except for the artifact names.
 
 *Thucydides* was renamed *Serenity* in November 2014, and moving forward, all new work will be done on Serenity. The artifact names reflect this change, e.g.
-  - *net.thucydides:thucydides-code* becomes *net.serenity:core*
-  - *net.thucydides:thucydides-junit* becomes *net.serenity:serenity-junit*
-  - *net.thucydides:thucydides-jbehave* becomes *net.serenity:serenity-jbehave*
-  - *net.thucydides:thucydides-cucumber* becomes *net.serenity:serenity-cucumber*
+  - *net.thucydides:thucydides-code* becomes *net.serenity-bdd:core*
+  - *net.thucydides:thucydides-junit* becomes *net.serenity-bdd:serenity-junit*
+  - *net.thucydides:thucydides-jbehave* becomes *net.serenity-bdd:serenity-jbehave*
+  - *net.thucydides:thucydides-cucumber* becomes *net.serenity-bdd:serenity-cucumber*
 
 and so on.
 
+## Serenity artifacts current releases
+
 | Group Id | Artifact Id | Version |
 | -------- | ----------- | ------- |
-| `net.serenity-bdd` | `serenity-core` | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-core/badge.svg) |
+| `net.serenity-bdd` | `serenity-core`     | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-core/badge.svg)     |
+| `net.serenity-bdd` | `serenity-junit`    | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-junit/badge.svg)    |
+| `net.serenity-bdd` | `serenity-jbehave`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-jbehave/badge.svg)  |
+| `net.serenity-bdd` | `serenity-cucumber` | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-cucumber/badge.svg) |
+| `net.serenity-bdd` | `serenity-spring`   | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-spring/badge.svg)   |
+| `net.serenity-bdd` | `serenity-journey`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-journey/badge.svg)  |
+
+### Serenity tools for build integration
+
+| Build Tool | Group Id | Artifact Id | Version |
+| ---------- | -------- | ----------- | ------- |
+| Ant    | `net.serenity-bdd` | `serenity-ant-task`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-ant-task/badge.svg)  |
+| Maven  | `net.serenity-bdd.maven.plugins` | `serenity-maven-plugin`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd.maven.plugins/serenity-maven-plugin/badge.svg)  |
+| Gradle | `net.serenity-bdd` | `serenity-gradle-plugin`  | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-maven-plugin/badge.svg)  |
 
 
 ## Version number format
