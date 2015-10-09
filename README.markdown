@@ -30,8 +30,12 @@ under the name *Thucydides* - everything discussed in "BDD in Action" is directl
   - *net.thucydides:thucydides-junit* becomes *net.serenity:serenity-junit*
   - *net.thucydides:thucydides-jbehave* becomes *net.serenity:serenity-jbehave*
   - *net.thucydides:thucydides-cucumber* becomes *net.serenity:serenity-cucumber*
- 
+
 and so on.
+
+
+| `net.serenity-bdd` | `serenity-core` | ![net.serenity-bdd/serenity-core](https://maven-badges.herokuapp.com/maven-central/net.serenity-bdd/serenity-core/badge.svg) |
+
 
 ## Version number format
 
