@@ -1,5 +1,5 @@
 [![Build Status](https://snap-ci.com/serenity-bdd/serenity-core/branch/master/build_image)](https://snap-ci.com/serenity-bdd/serenity-core/branch/master)
-
+[![Stackoverflow - Serneity-BDD](http://cdn.sstatic.net/stackoverflow/img/favicon.ico?v=4f32ecc8f43d) Serenity-BDD](http://stackoverflow.com/questions/tagged/serenity-bdd)
 
 ## Serenity - that feeling you get when you know you can trust your tests
 
